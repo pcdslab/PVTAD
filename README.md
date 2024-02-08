@@ -5,12 +5,14 @@ Maryam Akhavan Aghdam, Serdar Bozdan, Fahad Saeed, Alzheimer’s Dissease (2024)
 ## Prerequisites
 Required packages can be installed on python3.6 environment.
 ### Installing Libraries & Dependencies
+```
 pip install tensorflow 
 pip install keras
 pip install scikit-learn
 pip install tfimm
 pip install timm
 pip install opencv-python
+```
 ### Data
 In this research, we used T1-weighted magnetization prepared rapid gradient echo (MPRAGE) sMRI scans from Alzheimer’s Disease Neuroimaging Initiative (ADNI) database. 
 We decomposed each 3D preprocessed WM of sMRI data into 2D coronal slices.
