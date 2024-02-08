@@ -6,7 +6,7 @@ Maryam Akhavan Aghdam, Serdar Bozdan, Fahad Saeed, Alzheimer’s Dissease (2024)
 Required packages can be installed on python3.6 environment.
 ### Installing Libraries & Dependencies
 ```
-pip install tensorflow 
+pip install tensorflow
 pip install keras
 pip install scikit-learn
 pip install tfimm
